@@ -1,6 +1,6 @@
 import pandas as pd
 
-archivo = pd.read_excel("https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/master/Curso_Analisis_de_Datos_Datos/Tabla1.xlsx")
+archivo = pd.read_excel("Tabla1.xlsx")
 print(archivo)
 print()
 
